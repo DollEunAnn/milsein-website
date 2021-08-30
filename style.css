@@ -13,6 +13,7 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+
 /* Sections
    ========================================================================== */
 
@@ -87442,5 +87443,13 @@ video {
   .xl\:animate-bounce {
     -webkit-animation: bounce 1s infinite;
             animation: bounce 1s infinite;
+  }
+
+  .h-c-800 {
+    height: 800px;
+  }
+
+  .w-c-500 {
+    height: 700px;
   }
 }
